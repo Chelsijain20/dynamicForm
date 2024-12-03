@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dynamicform/static/css/main.df4a5563.css",
+    "main.js": "/dynamicform/static/js/main.6236f9cd.js",
+    "static/js/453.52c4f528.chunk.js": "/dynamicform/static/js/453.52c4f528.chunk.js",
+    "index.html": "/dynamicform/index.html",
+    "main.df4a5563.css.map": "/dynamicform/static/css/main.df4a5563.css.map",
+    "main.6236f9cd.js.map": "/dynamicform/static/js/main.6236f9cd.js.map",
+    "453.52c4f528.chunk.js.map": "/dynamicform/static/js/453.52c4f528.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df4a5563.css",
+    "static/js/main.6236f9cd.js"
+  ]
+}
